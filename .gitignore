@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+#OS X Hidden files
+.DS_Store
+
 # Log file
 *.log
 
