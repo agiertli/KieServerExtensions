@@ -1,0 +1,6 @@
+rule "Your First Rule"
+    when
+        $s : String()
+    then
+        System.out.println("Hello " + $s);
+end
